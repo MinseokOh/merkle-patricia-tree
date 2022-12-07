@@ -1,4 +1,4 @@
-module github.com/MinseokOh/merkle-patricia-tree
+module github.com/MinseokOh/merkle-patricia-trie
 
 go 1.19
 
